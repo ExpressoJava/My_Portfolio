@@ -9,11 +9,10 @@
 	<small>
 		{{ post.created_on.date }} |&nbsp; Categories:&nbsp; {% for category in
 		post.categories.all %}
-		<a href="{% url 'blog_category' category.name %}">
-			{{ category.name }} </a
+		<a href="{% url 'blog_category' category.name %}"> {{ category.name }} </a
 		>&nbsp; {% endfor %}
 	</small>
-	<p>{{ post.body | slice: ':400' }}...</p>
-	{% endfor %}
+	<p>{{ post.body }}...</p>
+	<!-- {% endfor %} -->
 </div>
 {% endblock %}
