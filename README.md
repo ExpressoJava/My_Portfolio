@@ -34,7 +34,10 @@ follow instructions on prompt
 
 ### Routes
 
-localhost:8000/projects
-localhost:8000/admin
-localhost:8000/blog/ - this route isnt working
+## localhost:8000/projects
+
+## localhost:8000/admin
+
+## localhost:8000/blog/ - this route isnt working
+
 localhost/blog/1
