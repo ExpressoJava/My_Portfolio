@@ -2,7 +2,7 @@
 
 Portfolio with blog build with Django 2.2.6
 
-## Requirments
+## Requirements
 
 Python == 3.5 and up and Django ==2.2.6
 
@@ -34,10 +34,10 @@ follow instructions on prompt
 
 ### Routes
 
-## localhost:8000/projects
+##### localhost:8000/projects
 
-## localhost:8000/admin
+##### localhost:8000/admin
 
-## localhost:8000/blog/ - this route isnt working
+##### localhost:8000/blog/ - this route isnt working
 
-localhost/blog/1
+##### localhost/blog/1
