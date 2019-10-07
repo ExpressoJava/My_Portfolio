@@ -23,12 +23,13 @@ python manage.py migrate
 
 ```python
 python manage.py createsuperuser
+then follow instructions on prompt
 ```
 
 ### Running in local server
 
 ```python
-python.manage.py createsuper
+python.manage.py runserver
 follow instructions on prompt
 ```
 
