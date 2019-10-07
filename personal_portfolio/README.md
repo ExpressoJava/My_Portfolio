@@ -1,6 +1,6 @@
 # Project Title
 
-Portfolio build with Django 2.2.6
+Portfolio with blog build with Django 2.2.6
 
 ## Requirments
 
